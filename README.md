@@ -8,7 +8,7 @@ Understand the nuances of working with sequential data, which is fundamental in 
 
 2. TensorFlow Proficiency:
 
-Strengthen our proficiency with TensorFlow, a widely used deep learning framework. Building a sequential model in TensorFlow, such as the LSTM network, enables me to enhance our expertise in implementing neural networks for specific tasks.
+Strengthen my proficiency with TensorFlow, a widely used deep learning framework. Building a sequential model in TensorFlow, such as the LSTM network, enables me to enhance our expertise in implementing neural networks for specific tasks.
 
 3. Chorale Generation with WaveNet:
 
