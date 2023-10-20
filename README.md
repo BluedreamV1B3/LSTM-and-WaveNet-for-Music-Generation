@@ -24,4 +24,4 @@ Download the dataset here: https://homl.info/bach
 
 In a 2016 research paper, Aaron van den Oord and his fellow DeepMind researchers introduced an innovative architecture known as WaveNet. The primary aim of WaveNet is to generate new data samples that adhere to the original data distribution, making it a Generative Model. Their approach involved stacking 1D convolutional layers and progressively increasing the dilation rate, which controls how widely separated a neuron's inputs are at each layer. To elaborate, the initial convolutional layer analyzes just two time steps at once, whereas the subsequent layer considers four time steps, extending its receptive field. This progression continues with each layer doubling the time steps it examines. This design empowers the lower layers to capture short-term patterns, while the higher layers excel at recognizing long-term patterns. Thanks to this doubling dilation rate strategy, the network can efficiently process exceedingly long sequences.
 
-![Xception](Xception-CNN.png)
+![Xception](architecture.png)
